@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQL_APP</string>
+    <string name="book_title">Title</string>
+    <string name="book_author">Author</string>
+    <string name="book_description">Description</string>
+    <string name="book_pages">No.of Pages</string>
+    <string name="add_book">ADD</string>
+</resources>
